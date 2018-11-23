@@ -1,8 +1,0 @@
-DEPENDENCIES
-  aqha-example-web-app
-    git: https://github.com/sbwise01/aqha-example-web-app.git
-    revision: b71e0a12e974964c9a13ddd3d0e61b8d34b11e8c
-    branch: master
-
-GRAPH
-  aqha-example-web-app (0.1.0)
