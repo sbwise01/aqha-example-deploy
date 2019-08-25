@@ -1,0 +1,4 @@
+---
+# Deployment variables
+
+environment_name: 'production'
